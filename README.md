@@ -4,16 +4,23 @@
 
 ---
 
-## 🚀 About Me  
-🔹 Data Analyst with 6 months experience  
-🔹 Skilled in **Python, Power BI, SQL, Excel**  
-🔹 Passionate about **Data Visualization & Business Insights**  
-🔹 Currently exploring **Machine Learning & End-to-End Data Projects**
+## 🚀 About Me
+🔹 Data Analyst | 6 months experience at codons company  
+🔹 Skills: Python, SQL, Power BI, Excel  
+🔹 Passionate about Data Analytics, Visualization & Business Insights  
+🔹 Currently exploring Machine Learning & Projects
 
 ---
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 🛠️ Tech Stack
 
+
+---
 ### 📌 Programming & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)
@@ -54,8 +61,7 @@
 
 ## 📬 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=internet-explorer&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: kunalgomkar13@gmail.com )
 
 ---
 
