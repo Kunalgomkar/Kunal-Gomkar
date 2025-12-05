@@ -1,4 +1,4 @@
-# Kunal-Gomkar
+# Kunal Gomkar
 <!-- Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1D9BF0&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Kunal+Gomkar;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Welcome+to+my+GitHub+Profile!" />
 
@@ -49,19 +49,19 @@
 
 ## 🧩 Featured Projects  
 🔹 **Airbnb Data Analysis Project**  
-📊 Power BI, Python, SQL  
+📈 jupyter Notebook , Python, SQL  
 👉 *Interactive dashboards + business insights*  
-🔗 *(Add your project link here)*  
+🔗 *(https://github.com/Kunalgomkar/Airbnb-Data-Analysis-)*  
 
-🔹 **Student Performance Analysis**  
-📈 ML-based insights  
-🔗 *(Add your project link here)*  
+🔹 **Hospital Data Analysis**  
+📊 Power BI
+🔗 *(https://github.com/Kunalgomkar/Hospital-Data-Dashboard)*  
 
 ---
 
 ## 📬 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: kunalgomkar13@gmail.com )
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]  (mail to: kunalgomkar13@gmail.com )
 
 ---
 
